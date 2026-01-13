@@ -8,6 +8,10 @@ A simple and intuitive to-do list application built with React Class Components.
 - **✅ Mark Completed**: Click on tasks to mark them as completed with visual strikethrough
 - **🗑️ Clear All**: Delete all tasks at once with a single click
 - **🖼️ Visual Indicators**: Checkmark icons for each task
+- 
+## 📸 Preview
+
+![To-Do List Preview](./screenshot.png)
 
 
 ## 🛠️ Technologies Used
@@ -56,6 +60,9 @@ A simple and intuitive to-do list application built with React Class Components.
 
 1. **Clone the repository**
    git clone https://github.com/akimova-inna/toDoList.git
+   cd toDoList
+   npm install
+   npm start
 
 🤝 Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
